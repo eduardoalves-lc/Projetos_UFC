@@ -1,3 +1,4 @@
 # Projetos_UFC
 
-Trabalhos da disciplina de PDS 
+Trabalhos do curso de Engenharia de Software da UFC campus Quixadá.
+
